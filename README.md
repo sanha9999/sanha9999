@@ -1,4 +1,4 @@
-# <center>**🎍🎍 I am Bamboo 🎍🎍**</center>
+# **🎍🎍 I am Bamboo 🎍🎍**
 
 <!--
 **sanha9999/sanha9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
